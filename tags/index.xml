@@ -5,12 +5,20 @@
     <link>https://stefancobeli.github.io/tags/</link>
       <atom:link href="https://stefancobeli.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Aug 2019 12:55:26 +0300</lastBuildDate>
     <image>
       <url>https://stefancobeli.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://stefancobeli.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>Miscellaneous</title>
+      <link>https://stefancobeli.github.io/tags/miscellaneous/</link>
+      <pubDate>Wed, 07 Aug 2019 12:55:26 +0300</pubDate>
+      <guid>https://stefancobeli.github.io/tags/miscellaneous/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
