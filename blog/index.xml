@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Ștefan Cobeli</title>
-    <link>https://stefancobeli.github.io/posts/</link>
-      <atom:link href="https://stefancobeli.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://stefancobeli.github.io/blog/</link>
+      <atom:link href="https://stefancobeli.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Aug 2019 12:55:26 +0300</lastBuildDate>
     <image>
       <url>https://stefancobeli.github.io/img/icon-192.png</url>
       <title>Posts</title>
-      <link>https://stefancobeli.github.io/posts/</link>
+      <link>https://stefancobeli.github.io/blog/</link>
     </image>
     
     <item>
       <title>Inaugural Post</title>
-      <link>https://stefancobeli.github.io/posts/inaugural_post/</link>
+      <link>https://stefancobeli.github.io/blog/inaugural_post/</link>
       <pubDate>Wed, 07 Aug 2019 12:55:26 +0300</pubDate>
-      <guid>https://stefancobeli.github.io/posts/inaugural_post/</guid>
+      <guid>https://stefancobeli.github.io/blog/inaugural_post/</guid>
       <description>
 
 &lt;ul&gt;
