@@ -3,65 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://stefancobeli.github.io/authors/</loc>
-    <lastmod>2019-08-07T12:55:26+03:00</lastmod>
+    <loc>/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://stefancobeli.github.io/blog/inaugural_post/</loc>
-    <lastmod>2019-08-07T12:55:26+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stefancobeli.github.io/tags/miscellaneous/</loc>
-    <lastmod>2019-08-07T12:55:26+03:00</lastmod>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://stefancobeli.github.io/blog/</loc>
-    <lastmod>2019-08-07T12:55:26+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stefancobeli.github.io/tags/</loc>
-    <lastmod>2019-08-07T12:55:26+03:00</lastmod>
+    <loc>/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stefancobeli.github.io/authors/stefan/</loc>
-    <lastmod>2019-08-07T12:55:26+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stefancobeli.github.io/</loc>
-    <lastmod>2019-08-07T12:55:26+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stefancobeli.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://stefancobeli.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stefancobeli.github.io/publication_types/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stefancobeli.github.io/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>https://stefancobeli.github.io/talk/</loc>
   </url>
   
 </urlset>
