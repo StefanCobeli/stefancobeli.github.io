@@ -5,7 +5,7 @@
     <link>https://stefancobeli.github.io/tags/</link>
       <atom:link href="https://stefancobeli.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Mon, 07 Oct 2019 12:55:26 +0300</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Sat, 19 Oct 2019 12:55:26 +0300</lastBuildDate>
     <image>
       <url>https://stefancobeli.github.io/img/icon-192.png</url>
       <title>Tags</title>
@@ -15,8 +15,24 @@
     <item>
       <title>Miscellaneous</title>
       <link>https://stefancobeli.github.io/tags/miscellaneous/</link>
-      <pubDate>Mon, 07 Oct 2019 12:55:26 +0300</pubDate>
+      <pubDate>Sat, 19 Oct 2019 12:55:26 +0300</pubDate>
       <guid>https://stefancobeli.github.io/tags/miscellaneous/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Science</title>
+      <link>https://stefancobeli.github.io/tags/computer-science/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://stefancobeli.github.io/tags/computer-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathematics</title>
+      <link>https://stefancobeli.github.io/tags/mathematics/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://stefancobeli.github.io/tags/mathematics/</guid>
       <description></description>
     </item>
     

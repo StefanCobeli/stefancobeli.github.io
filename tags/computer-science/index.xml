@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Science | Ștefan Cobeli</title>
+    <link>https://stefancobeli.github.io/tags/computer-science/</link>
+      <atom:link href="https://stefancobeli.github.io/tags/computer-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Science</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://stefancobeli.github.io/img/icon-192.png</url>
+      <title>Computer Science</title>
+      <link>https://stefancobeli.github.io/tags/computer-science/</link>
+    </image>
+    
+    <item>
+      <title>Computer Science Bachelor Project</title>
+      <link>https://stefancobeli.github.io/projects/cs-thesis/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://stefancobeli.github.io/projects/cs-thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
