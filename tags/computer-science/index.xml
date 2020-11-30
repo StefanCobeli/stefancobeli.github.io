@@ -5,7 +5,7 @@
     <link>https://stefancobeli.github.io/tags/computer-science/</link>
       <atom:link href="https://stefancobeli.github.io/tags/computer-science/index.xml" rel="self" type="application/rss+xml" />
     <description>Computer Science</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://stefancobeli.github.io/img/icon-192.png</url>
       <title>Computer Science</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Artificial Intelligence Master Project</title>
+      <link>https://stefancobeli.github.io/projects/ai-thesis/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://stefancobeli.github.io/projects/ai-thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Computer Science Bachelor Project</title>
       <link>https://stefancobeli.github.io/projects/cs-thesis/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
       <guid>https://stefancobeli.github.io/projects/cs-thesis/</guid>
       <description></description>
     </item>
