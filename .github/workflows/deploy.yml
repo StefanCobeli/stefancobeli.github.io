@@ -84,6 +84,7 @@ jobs:
           pip3 install --upgrade jupyter
           export JEKYLL_ENV=production
           bundle exec jekyll build
+          bundle lock --add-platform x86_64-linux
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss
