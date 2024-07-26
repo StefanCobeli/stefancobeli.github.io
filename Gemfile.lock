@@ -206,6 +206,7 @@ DEPENDENCIES
   jekyll-toc
   jekyll-twitter-plugin
   jemoji
+  liquid (~> 4.0, >= 4.0.4)
   mini_racer
   unicode_utils
   webrick
