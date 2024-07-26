@@ -20,7 +20,7 @@ group :jekyll_plugins do
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
     # gem 'liquid', '~> 4.0', '>= 4.0.4'
-    gem 'mini_racer'
+    # gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
 end
