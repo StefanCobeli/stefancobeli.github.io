@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 group :jekyll_plugins do
     gem 'classifier-reborn'
     gem 'jekyll'
+    # gem "jekyll"#, github: "jekyll/jekyll"#, ref: "refs/pull/9248/head"
     gem 'jekyll-archives'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
@@ -18,6 +19,7 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
+    # gem 'liquid', '~> 4.0', '>= 4.0.4'
     gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
