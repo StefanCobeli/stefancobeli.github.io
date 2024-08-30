@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Stefan Cobeli"
-  avatar : 2023_CtS_Bocanegra_Farm_IMG_5036_fragment.JPG #"/assets/images/bio-photo.jpg"
+  avatar : /assets/images/2023_CtS_Bocanegra_Farm_IMG_5036_fragment.JPG #"/assets/images/bio-photo.jpg"
   bio    : "PhD Student | Electronic Vizualization Laboratory"
   links:
     # - label: "Website"
