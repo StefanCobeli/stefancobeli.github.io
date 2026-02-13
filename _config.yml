@@ -59,7 +59,8 @@ plugins:
 
 author:
   name   : "Stefan Cobeli"
-  avatar : /assets/images/2023_CtS_Bocanegra_Farm_IMG_5036_fragment.JPG #"/assets/images/bio-photo.jpg"
+  # avatar : /assets/images/2023_CtS_Bocanegra_Farm_IMG_5036_fragment.JPG #"/assets/images/bio-photo.jpg"
+  avatar : /assets/images/2025-Stefan-Cobeli-profile-2.jpeg
   bio    : "PhD Student | Electronic Visualization Lab"
 #Academic & Research Technology Coordinator | Communication Department "
   links:
