@@ -38,7 +38,7 @@ Stefan Cobeli is a PhD student in the [Electronic Visualization Laboratory (EVL)
   <a class="tile" href="https://projecteuler.net/profile/stefan.cobeli.png"
      title='Project Euler · <a href="https://projecteuler.net/profile/stefan.cobeli.png" target="_blank" rel="noopener">profile badge</a>'>
     <img src="/assets/images/misc/project-euler.png" alt="">
-    <span class="tile-note">Project Euler: top 2% of problem solvers</span>
+    <span class="tile-note">Top 2% of problem solvers on Project Euler</span>
   </a>
   <a class="tile" href="/assets/images/misc/full/google-maps.png" title="Google Maps contributions: 1,240,702 views">
     <img src="/assets/images/misc/google-maps.png" alt="">
