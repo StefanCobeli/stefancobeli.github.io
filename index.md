@@ -32,7 +32,7 @@ Stefan Cobeli is a PhD student in the [Electronic Visualization Laboratory (EVL)
 <div class="tiles">
   <a class="tile" href="/assets/images/misc/full/marathon-results.png"
      title='Indianapolis Monumental Marathon 2026 · <a href="https://sites.chronotrack.com/event/93660/results/entry/79792547" target="_blank" rel="noopener">official results</a>'>
-    <img src="/assets/images/misc/marathon.jpg" alt="">
+    <img src="/assets/images/misc/marathon-square.png" alt="">
     <span class="tile-note">Marathon 2026</span>
   </a>
   <a class="tile" href="https://projecteuler.net/profile/stefan.cobeli.png"
