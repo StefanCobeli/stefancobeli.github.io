@@ -30,8 +30,8 @@ Stefan Cobeli is a PhD student in the [Electronic Visualization Laboratory (EVL)
 
 <!-- Thumbnails link to an image file, so the theme opens them in a popup; the title text (with its link) shows under the image -->
 <div class="tiles">
-  <a class="tile" href="/assets/images/misc/full/marathon-results.png"
-     title='Indianapolis Monumental Marathon 2026 · <a href="https://sites.chronotrack.com/event/93660/results/entry/79792547" target="_blank" rel="noopener">official results</a>'>
+  <a class="tile" href="/assets/images/misc/full/marathon-results-map.png"
+     title='Indianapolis Monumental Marathon 2026 · <a href="https://sites.chronotrack.com/event/93660/results/entry/79792547" target="_blank" rel="noopener">official results</a> &amp; <a href="https://track.rtrt.me/e/BM-MONUMENTAL-MARATHON-2026#/dash/RT67K8RV" target="_blank" rel="noopener">bib tracking</a>'>
     <img src="/assets/images/misc/marathon-square.png" alt="">
     <span class="tile-note">Marathon 2026</span>
   </a>
