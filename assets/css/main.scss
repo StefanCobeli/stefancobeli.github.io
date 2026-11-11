@@ -1,0 +1,47 @@
+---
+# Theme styles plus the card layout used on the home page
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* Round-thumbnail grid used for Research and Miscellanea */
+.tiles {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(105px, 1fr));
+  gap: 1.6em .8em; margin: 1em 0 2.4em;
+}
+.tile {
+  display: flex; flex-direction: column; align-items: center; text-align: center;
+  color: inherit; text-decoration: none;
+}
+.tile img {
+  width: 104px; height: 104px; border-radius: 50%; object-fit: cover;
+  border: 1px solid #e3e5e8; background: #fff;
+  transition: transform .2s ease, box-shadow .2s ease;
+}
+a.tile:hover img { transform: scale(1.06); box-shadow: 0 0 0 3px #2b4a6f; }
+a.tile:hover .tile-title { color: #2b4a6f; }
+.tile-title { margin-top: .6em; font-size: .85em; font-weight: 700; line-height: 1.3; }
+.tile-note { margin-top: .6em; font-size: .75em; color: #6b7280; line-height: 1.35; }
+
+/* Research detail pages */
+.detail-img { width: 100%; border-radius: 6px; border: 1px solid #e3e5e8; margin-bottom: 1em; }
+.authors { color: #6b7280; font-size: .85em; margin-bottom: .4em; }
+.venue {
+  display: inline-block; padding: .1em .55em; border-radius: 4px;
+  font-size: .75em; font-weight: 700; background: #eef2f7; color: #2b4a6f;
+}
+.venue.award { background: #fdf3dc; color: #8a5a00; }
+
+/* No top bar: it only repeated the name */
+.masthead { display: none; }
+#main { margin-top: 2em; }
+
+/* Popup captions: keep the link readable on the dark overlay */
+.mfp-title { text-align: center; padding-right: 0; }
+.mfp-title a { color: #9cc3ff; text-decoration: underline; }
+
+/* Paper / poster / slides links at the top of research subpages */
+.top-links { font-weight: 600; margin-bottom: .8em; }

@@ -1,0 +1,5 @@
+# Local preview only: build with the installed theme instead of downloading it.
+# Used by:  bundle exec jekyll serve --config _config.yml,_config.preview.yml -d _preview
+remote_theme: false
+theme: minimal-mistakes-jekyll
+exclude: [vendor, Gemfile, Gemfile.lock, _config.preview.yml, README.md]

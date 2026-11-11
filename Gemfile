@@ -17,3 +17,6 @@ group :jekyll_plugins do
 end
 
 gem "webrick", "~> 1.8"
+
+# Local copy of the theme, used only by the offline preview (_config.preview.yml)
+gem "minimal-mistakes-jekyll"
