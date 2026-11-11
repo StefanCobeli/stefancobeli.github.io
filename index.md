@@ -38,19 +38,19 @@ Stefan Cobeli is a PhD student in the [Electronic Visualization Laboratory (EVL)
   <a class="tile" href="https://projecteuler.net/profile/stefan.cobeli.png"
      title='Project Euler · <a href="https://projecteuler.net/profile/stefan.cobeli.png" target="_blank" rel="noopener">profile badge</a>'>
     <img src="/assets/images/misc/project-euler.png" alt="">
-    <span class="tile-note">Project Euler top 2%</span>
+    <span class="tile-note">Project Euler: top 2% of problem solvers</span>
   </a>
   <a class="tile" href="/assets/images/misc/full/google-maps.png" title="Google Maps contributions: 1,240,702 views">
     <img src="/assets/images/misc/google-maps.png" alt="">
-    <span class="tile-note">1.2M Google Maps views</span>
+    <span class="tile-note">1.2M Google Maps contribution views</span>
   </a>
   <div class="tile">
     <img src="/assets/images/misc/teaching-cgs.png" alt="">
-    <span class="tile-note">Montessori-trained; taught pre-K to grad</span>
+    <span class="tile-note">Montessori-trained; taught pre-K up to grad students</span>
   </div>
   <a class="tile" href="/assets/images/misc/full/stackoverflow-stats.png"
      title='StackOverflow · <a href="https://stackoverflow.com/users/7136493/Ștefan?tab=profile" target="_blank" rel="noopener">profile</a>'>
     <img src="/assets/images/misc/stackoverflow.png" alt="">
-    <span class="tile-note">700k reached on StackOverflow</span>
+    <span class="tile-note">700k users reached with Stack Overflow contributions</span>
   </a>
 </div>
