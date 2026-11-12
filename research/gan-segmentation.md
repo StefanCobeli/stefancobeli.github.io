@@ -5,7 +5,7 @@ permalink: /research/gan-segmentation/
 title: "Semantic Segmentation Alternative Technique: Segmentation Domain Generation"
 ---
 
-<p class="top-links"><a href="https://arxiv.org/abs/2107.02525">Paper</a> · <a href="/assets/papers/eeml-2021-poster.pdf">Poster</a> · <a href="/assets/papers/eeml-2021-slides.pdf">Slides</a></p>
+<p class="top-links"><a href="https://arxiv.org/abs/2107.02525">Paper</a> · <a href="/assets/papers/eeml-2021-poster.pdf">Poster</a> · <a href="/assets/papers/eeml-2021-slides.pdf">Slides</a> · <a href="https://youtu.be/wIFk63qSAF0">Video</a></p>
 
 <img class="detail-img" src="/assets/images/research/segmentation-eeml.jpg" alt="">
 
