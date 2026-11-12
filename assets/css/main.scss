@@ -46,6 +46,10 @@ a.tile:hover .tile-title { color: #2b4a6f; }
 /* Paper / poster / slides links at the top of research subpages */
 .top-links { font-weight: 600; margin-bottom: .8em; }
 
-.flag-counter { display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin-bottom: 1em; }
+/* Flags on the left, map on the right; the map shrinks to fit, and they stack only on phones */
+.flag-counter { display: flex; flex-wrap: nowrap; justify-content: center; align-items: center; gap: 1em; margin-bottom: 1em; }
+.flag-counter > a { flex: 0 0 auto; }
+.flag-counter > a:last-child { flex: 0 1 400px; min-width: 0; }
 .flag-counter img { display: block; max-width: 100%; height: auto; }
-.flag-counter .flag-map { width: 400px; }
+.flag-counter .flag-map { width: 100%; }
+@media (max-width: 480px) { .flag-counter { flex-wrap: wrap; } }
