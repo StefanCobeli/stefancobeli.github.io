@@ -31,26 +31,27 @@ Stefan Cobeli is a PhD student in the [Electronic Visualization Laboratory (EVL)
 <!-- Thumbnails link to an image file, so the theme opens them in a popup; the title text (with its link) shows under the image -->
 <div class="tiles">
   <a class="tile" href="/assets/images/misc/full/marathon-results-map.png"
-     title='Indianapolis Monumental Marathon 2026 · <a href="https://sites.chronotrack.com/event/93660/results/entry/79792547" target="_blank" rel="noopener">official results</a> &amp; <a href="https://track.rtrt.me/e/BM-MONUMENTAL-MARATHON-2026#/dash/RT67K8RV" target="_blank" rel="noopener">bib tracking</a>'>
+     title='Indianapolis Monumental Marathon 2026 · <a href="https://sites.chronotrack.com/event/93660/results/entry/79792547" target="_blank" rel="noopener">official results</a> &amp; <a href="https://track.rtrt.me/e/BM-MONUMENTAL-MARATHON-2026#/dash/RT67K8RV" target="_blank" rel="noopener">bib tracking</a>.'>
     <img src="/assets/images/misc/marathon-square.png" alt="">
-    <span class="tile-note">Marathon 2026</span>
+    <span class="tile-note">Marathon 2026.</span>
   </a>
   <a class="tile" href="https://projecteuler.net/profile/stefan.cobeli.png"
-     title='Top 2% of problem solvers on Project Euler · <a href="https://projecteuler.net/profile/stefan.cobeli.png" target="_blank" rel="noopener">profile badge</a>'>
+     title='Top 2% of problem solvers on Project Euler · <a href="https://projecteuler.net/profile/stefan.cobeli.png" target="_blank" rel="noopener">profile badge</a>.'>
     <img src="/assets/images/misc/project-euler.png" alt="">
-    <span class="tile-note">Top 2% of problem solvers on Project Euler</span>
+    <span class="tile-note">Top 2% of problem solvers on Project Euler.</span>
   </a>
-  <a class="tile" href="/assets/images/misc/full/google-maps.png" title="1.2M Google Maps contribution views">
+  <a class="tile" href="/assets/images/misc/full/google-maps.png" title="1.2M Google Maps contribution views.">
     <img src="/assets/images/misc/google-maps.png" alt="">
-    <span class="tile-note">1.2M Google Maps contribution views</span>
+    <span class="tile-note">1.2M Google Maps contribution views.</span>
   </a>
-  <div class="tile">
+  <a class="tile" href="/assets/images/misc/teaching-cgs.png"
+     title='Certified in Montessori-based formation – <a href="https://cgsusa.org/learn/courses-for-adults/" target="_blank" rel="noopener">CGSUSA</a> course 1-02504.<br>Taught pre-K to grad students.'>
     <img src="/assets/images/misc/teaching-cgs.png" alt="">
-    <span class="tile-note">Certified in Montessori-based formation; taught pre-K to grad students</span>
-  </div>
+    <span class="tile-note">Certified in Montessori-based formation; taught pre-K to grad students.</span>
+  </a>
   <a class="tile" href="/assets/images/misc/full/stackoverflow-stats.png"
-     title='700k users reached with Stack Overflow contributions · <a href="https://stackoverflow.com/users/7136493/Ștefan?tab=profile" target="_blank" rel="noopener">profile</a>'>
+     title='700k users reached with Stack Overflow contributions · <a href="https://stackoverflow.com/users/7136493/Ștefan?tab=profile" target="_blank" rel="noopener">profile</a>.'>
     <img src="/assets/images/misc/stackoverflow.png" alt="">
-    <span class="tile-note">700k users reached with Stack Overflow contributions</span>
+    <span class="tile-note">700k users reached with Stack Overflow contributions.</span>
   </a>
 </div>
