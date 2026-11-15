@@ -40,14 +40,14 @@ Stefan Cobeli is a PhD student in the [Electronic Visualization Laboratory (EVL)
     <img src="/assets/images/misc/project-euler.png" alt="">
     <span class="tile-note">Top 2% of problem solvers on Project Euler.</span>
   </a>
-  <a class="tile" href="/assets/images/misc/full/google-maps.png" title="1.2M Google Maps contribution views.">
-    <img src="/assets/images/misc/google-maps.png" alt="">
-    <span class="tile-note">1.2M Google Maps contribution views.</span>
-  </a>
   <a class="tile" href="/assets/images/misc/teaching-cgs.png"
      title='Certified in Montessori-based formation – <a href="https://cgsusa.org/learn/courses-for-adults/" target="_blank" rel="noopener">CGSUSA</a> course 1-02504.<br>Taught pre-K to grad students.'>
     <img src="/assets/images/misc/teaching-cgs.png" alt="">
     <span class="tile-note">Certified in Montessori-based formation; taught pre-K to grad students.</span>
+  </a>
+  <a class="tile" href="/assets/images/misc/full/google-maps.png" title="1.2M Google Maps contribution views.">
+    <img src="/assets/images/misc/google-maps.png" alt="">
+    <span class="tile-note">1.2M Google Maps contribution views.</span>
   </a>
   <a class="tile" href="/assets/images/misc/full/stackoverflow-stats.png"
      title='700k users reached with Stack Overflow contributions · <a href="https://stackoverflow.com/users/7136493/Ștefan?tab=profile" target="_blank" rel="noopener">profile</a>.'>
